@@ -1,7 +1,7 @@
 {
-  "name": "sparkle-componentsv3",
+  "name": "sparkle-componentsv4",
   "private": false,
-  "version": "0.1.1",
+  "version": "0.1.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -45,8 +45,9 @@
   "files": [
     "src/styles/*",
     "src/index.css",
-    "src/components/*.tsx",
-    "src/components/*ts"
+    "src/components/**/*.tsx",
+    "src/components/**/*ts",
+    "src/components/*.ts",
   ],
   "gitHead": "c878a131fe7014474cfba7c07383272a258c23b6"
 }
