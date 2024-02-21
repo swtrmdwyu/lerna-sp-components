@@ -1,5 +1,5 @@
 {
-  "name": "sp-components",
+  "name": "sparkle-componentsv3",
   "private": false,
   "version": "0.1.0",
   "type": "module",
@@ -47,5 +47,6 @@
     "src/index.css",
     "src/components/*.tsx",
     "src/components/*ts"
-  ]
+  ],
+  "gitHead": "c878a131fe7014474cfba7c07383272a258c23b6"
 }
