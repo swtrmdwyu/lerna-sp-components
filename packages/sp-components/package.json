@@ -47,7 +47,7 @@
     "src/index.css",
     "src/components/**/*.tsx",
     "src/components/**/*ts",
-    "src/components/*.ts",
+    "src/components/*.ts"
   ],
   "gitHead": "c878a131fe7014474cfba7c07383272a258c23b6"
 }
